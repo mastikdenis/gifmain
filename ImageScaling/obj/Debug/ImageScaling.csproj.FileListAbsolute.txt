@@ -1,0 +1,9 @@
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\bin\Debug\ImageScaling.exe
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\bin\Debug\ImageScaling.pdb
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.csprojResolveAssemblyReference.cache
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.Form1.resources
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.Properties.Resources.resources
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.csproj.GenerateResource.Cache
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.csproj.CoreCompileInputs.cache
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.exe
+E:\YandexDisk\BGUIR\FundamentalsProgrammingInformationSystems\ImageScaling\ImageScaling\obj\Debug\ImageScaling.pdb
